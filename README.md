@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo leonardo
-- 👀 Tenho interesse em aprendendo programaçao
+- 👀 Tenho interesse em aprender programaçao
 - 🌱  Estou aprende desenvolvimento web
 - 📫 Como chegar ate mim leonardoferrarete@gmail.com
 -  <div align="center">
