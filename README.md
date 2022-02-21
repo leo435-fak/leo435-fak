@@ -1,0 +1,4 @@
+- 👋  Olá, me chamo leonardo
+- 👀 Tenho interesse em aprender progrmaçao
+- 🌱  Estou aprende desenvolvimento web
+- 📫 Como chegar ate mim leonardoferrarete@gmail.com
