@@ -2,7 +2,6 @@
 - 👀 Tenho interesse em aprender programaçao
 - 🌱  Estou aprende desenvolvimento web
 - 📫 Como chegar ate mim leonardoferrarete@gmail.com
-
 -  <div align="center">
   <a href="https://github.com/leo435-fak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
